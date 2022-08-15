@@ -1,5 +1,5 @@
 ### Hi👋 I am Sebastian Pitra
-![code (4)](https://user-images.githubusercontent.com/98099690/184709490-9b664b93-1f9b-425a-a8fa-a3e4fd6c5a6c.gif)
+![RRYG3003](https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF)
 <div align="left">
   <a href="https://github.com/seba-pitra">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark"/>
