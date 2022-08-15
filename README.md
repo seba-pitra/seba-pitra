@@ -2,7 +2,7 @@
 ![code](https://user-images.githubusercontent.com/98099690/184700186-24ad5f3e-d017-4ab3-9014-e86a4a2eff5a.gif)
 <div align="left">
   <a href="https://github.com/seba-pitra">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Seba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
