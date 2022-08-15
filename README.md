@@ -1,4 +1,4 @@
-### Hi there👋 I am Sebastian Pitra
+### Hi👋 I am Sebastian Pitra
 ![code (4)](https://user-images.githubusercontent.com/98099690/184709490-9b664b93-1f9b-425a-a8fa-a3e4fd6c5a6c.gif)
 <div align="left">
   <a href="https://github.com/seba-pitra">
