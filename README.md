@@ -13,7 +13,7 @@ Currently, I'm making new projects that let me have more experience as developer
    Together, we can create projects that change people's lives<br>
    E-mail: **sebastian.pitra10@gmail.com**
 
-## Technologies
+## Tech Stask
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Seba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Seba-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,22 +30,36 @@ Currently, I'm making new projects that let me have more experience as developer
 </div>
 
 
-
-<div align="center">
-  <a href="https://github.com/seba-pitra">
-</div>
-
 <div style="display: flex" align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seba-pitra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  
-  <a href="https://github.com/seba-pitra">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark" />
 </div>
  
-
-  
-  
   
  <p align="center">
   <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
+  
+## Projects
+### Not Fungible Town
+
+  Not Fungible Town is a E-commerce of NFT.  <br>
+  The technologies that was used are: <br>
+  Front: React - Redux - Bootstrap - Material UI - CSS modules  <br>
+  Back: NodeJs - Express <br>
+  <a href="https://e-commerce-nft.vercel.app/">Link to Deploy</a>
+  <img  alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/212971620-243868cb-1724-431f-8789-d9f9a65d1712.png">
+ 
+  
+### Searching-Dog
+
+  Searching-Dog was my first Single Page App. <br>
+  The technologies that was used are: <br>
+  Front: React - Redux - CSS modules  <br>
+  Back: NodeJs - Express <br>
+  <a href="https://pi-dogs-two-olive.vercel.app/">Link to Deploy</a>
+  <img src="https://user-images.githubusercontent.com/98099690/212972698-6feb1582-2601-4eec-920d-3971cd1354f1.png">
+
+ 
+    
+  ###
