@@ -58,7 +58,7 @@ Currently, I'm making new projects that let me have more experience as developer
   <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Seba-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Seba-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
+  <br>
   <a href="https://e-commerce-nft.vercel.app/">Link to Deploy</a>
   <img  alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/212971620-243868cb-1724-431f-8789-d9f9a65d1712.png">
  
@@ -76,6 +76,7 @@ Currently, I'm making new projects that let me have more experience as developer
   <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Seba-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Seba-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <br>
   <a href="https://pi-dogs-two-olive.vercel.app/">Link to Deploy</a>
   <img src="https://user-images.githubusercontent.com/98099690/212972698-6feb1582-2601-4eec-920d-3971cd1354f1.png">
 
