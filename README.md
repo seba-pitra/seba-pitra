@@ -65,9 +65,9 @@ Actualmente estoy rompiendo mis límites creando proyectos con equipos de trabaj
   <br>
      
   <div display="flex">
-     <img  width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
-     <img  width="320" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
-     <img  width=320" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
+     <img height="300" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
+     <img height="300" width="320" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
+     <img height="300" width=320" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
   </div>
 
 
