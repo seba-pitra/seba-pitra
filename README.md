@@ -87,9 +87,9 @@ Actualmente estoy rompiendo mis límites creando proyectos con equipos de trabaj
   <br>
   
   <div display="flex">
-    <img height="300" width="340" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
-    <img height="300" width="320" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
-    <img height="300" width="320" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
+    <img height="300" width="260" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
+    <img height="300" width="260" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
+    <img height="300" width="260" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
   </div>
  
     
