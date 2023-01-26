@@ -1,17 +1,23 @@
 # Hi👋 my name is Sebastian!
 ## Who Am I?
-**Full stack developer** who loves to face new challenges and to reach goals. I like the **teamwork**, to create new **projects** and to learn **new technologies**.
+**Full stack developer** with a lot of dedication and desire to help my colleagues with a positive mindset💪 
+
+I met the code world thanks to friends and I challenged to me to start and finish the bootcamp SoyHenry with more 800 hours of practice and experience. it was one of the best decisions in my life😄
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="400" width="500"/>
 </p>
 
 ## What I do?
-Currently, I'm making new projects that let me have more experience as developer. 
+Currently, I'm breaking my limits creating projects to development my capactities and to give the best of me in teamwork. 
 
 ## Contact me
-   Together, we can create projects that change people's lives<br>
-   E-mail: **sebastian.pitra10@gmail.com**
+   E-mail: **sebastian.pitra10@gmail.com** <br>
+   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-pitra-97b5b7248/" display="flex" text-align="center">
+     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      Sebastian Pitra
+   <a>
+
 
 ## Tech Stask
 <div style="display: inline_block" align="center"><br>
