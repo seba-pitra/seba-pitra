@@ -1,23 +1,23 @@
-# Hi👋 my name is Sebastian!
-## Who Am I?
-**Full stack developer** with a lot of dedication and desire to help my colleagues with a positive mindset💪 
+# Hola!👋 mi nombre es Sebastian!
+## ¿Quién soy?
+**Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪 
 
-I met the code world thanks to friends and I challenged to me to start and finish the bootcamp SoyHenry with more 800 hours of practice and experience. it was one of the best decisions in my life😄
+Conocí el mundo del código gracias a amigos y me desafié a completar el bootcamp SoyHenry con más de 800 horas de práctica y experiencia. Fue una de las mejores decisiones de mi vida😄
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="400" width="500"/>
 </p>
 
-## What I do?
-Currently, I'm breaking my limits creating projects to development my capactities and to give the best of me in teamwork. 
+## ¿Qué hago?
+Actualmente estoy rompiendo mis límites creando proyectos con equipos de trabajo para desarrollar mis capacidades y dar lo mejor de mí en el trabajo en equipo🚀 
 
-## Contact me
+
+## Contactame
    E-mail: **sebastian.pitra10@gmail.com** <br>
    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-pitra-97b5b7248/" display="flex" text-align="center">
      <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
       Sebastian Pitra
    <a>
-
 
 ## Tech Stask
 <div style="display: inline_block" align="center"><br>
@@ -47,45 +47,50 @@ Currently, I'm breaking my limits creating projects to development my capactitie
 </p>
   
 ## Projects
-### Not Fungible Town
+     
+ ### [Non Fungible Town](https://github.com/seba-pitra/e-commerce-NFT).
 
-  Not Fungible Town is a E-commerce of NFT.  <br>
-  The technologies that was used are: <br>
-  Front:<br>
-  <img align="center" alt="Seba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Seba-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Seba-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Seba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Seba-materialu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Seba-firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  Non Fungible Town es un E-commerce de NFT.  <br>
+  Creamos una plataforma de compra-venta y creación de NFT. <br>
+  Se ha integrado autenticacion de terceros con Firebase junto con Mercado Pago y Metamask como pasarelas de pagos.
+  
+  **_En esta plataforma los usuarios pueden:_**<br>
+     <br>
+     1. Obtener facil ácceso a filtrados y ordenamientos para busquedas de NFT's.<br>
+     2. Verificaciones de cuenta para la creación de NFT.<br>
+     3. Listar sus NFT's favoritos.<br>
+     4. Compras rapidas mediante Metamask.<br>
+     5. Checkout de compra a traves de Mercado Pago.<br>
+     <br>
+  <br>
+     
+  <div display="flex">
+     <img height="300" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
+     <img height="300" width="380" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
+     <img height="300" width=360" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
+  </div>
+
+
+### [Dog breeds](https://github.com/seba-pitra/PI-DOGS).
+
+  Desarrollo de una SPA(Single Page App) usando React para el front y Redux como state management que permite la busqueda de razas de perros. <br>
+  Se implementó CSS puro para los estilos sin uso de librerias externas.<br> 
+  Las razas caninas son consumidas desde un back end construído con NodeJs y Express conectado a una base de datos hecha con sequelize y PostreSQL<br> 
   <br>
   
-  Back:<br>
-  <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Seba-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Seba-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  **_En esta plataforma los usuarios pueden:_**<br>
+     <br>
+     1. Filtrar por temperamentos y creados.<br>
+     2. Ordenar por orden alfabetico y peso.<br>
+     3. Crear su propia raza canina.<br>
+     <br>
   <br>
-  <a href="https://e-commerce-nft.vercel.app/">Link to Deploy</a>
-  <img  alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/212971620-243868cb-1724-431f-8789-d9f9a65d1712.png">
- 
   
-### Searching-Dog
-
-  Searching-Dog was my first Single Page App. <br>
-  The technologies that was used are: <br>
-  Front: <br>
-  <img align="center" alt="Seba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Seba-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Seba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
- Back:<br>
-  <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Seba-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Seba-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <br>
-  <a href="https://pi-dogs-two-olive.vercel.app/">Link to Deploy</a>
-  <img src="https://user-images.githubusercontent.com/98099690/212972698-6feb1582-2601-4eec-920d-3971cd1354f1.png">
-
+  <div display="flex">
+    <img height="300" width="340" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
+    <img height="300" width="320" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
+    <img height="300" width="320" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
+  </div>
  
     
   ###
