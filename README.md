@@ -1,16 +1,13 @@
 # Hola!👋 mi nombre es Sebastian!
-## ¿Quién soy?
-**Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪 
 
-Conocí el mundo del código gracias a amigos y me desafié a completar el bootcamp SoyHenry con más de 800 horas de práctica y experiencia. Fue una de las mejores decisiones de mi vida😄
+Soy un **Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪
+En los ultimos meses, la **resolución de problemas** y el **constante aprendizaje** que brinda la programación me apasionó. Tengo conomientos y experiencia en proyectos en: <br>
+HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | PostgreSQL | Sequelize | GitHub | Git | Vercel | Next Js | TypeScript <br>
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="400" width="500"/>
 </p>
-
-## ¿Qué hago?
-Actualmente estoy rompiendo mis límites creando proyectos con equipos de trabajo para desarrollar mis capacidades y dar lo mejor de mí en el trabajo en equipo🚀 
-
 
 ## Contactame
    E-mail: **sebastian.pitra10@gmail.com** <br>
@@ -66,7 +63,7 @@ Actualmente estoy rompiendo mis límites creando proyectos con equipos de trabaj
      
   <div display="flex">
      <img height="300" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
-     <img height="300" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
+     <img height="300" width="280" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
      <img height="300" width=260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
   </div>
 
