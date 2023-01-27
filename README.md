@@ -63,7 +63,7 @@ HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | Postgre
      
   <div display="flex">
      <img height="300" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
-     <img height="300" width="280" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
+     <img height="300" width="290" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
      <img height="300" width=280" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
   </div>
 
@@ -85,7 +85,7 @@ HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | Postgre
   
   <div display="flex">
     <img height="300" width="260" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
-    <img height="300" width="280" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
+    <img height="300" width="290" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
     <img height="300" width="270" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
   </div>
  
