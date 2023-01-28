@@ -1,6 +1,7 @@
 # Hola!👋 mi nombre es Sebastian!
 
-Soy un **Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪
+Soy un **Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪<br>
+<br>
 En los ultimos meses, la **resolución de problemas** y el **constante aprendizaje** que brinda la programación me apasionó. Tengo conomientos y experiencia en proyectos en: <br>
 HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | PostgreSQL | Sequelize | GitHub | Git | Vercel | Next Js | TypeScript <br>
 <br>
