@@ -1,21 +1,12 @@
-# Hola!👋 mi nombre es Sebastian!
+# Hello there!👋 I'm Sebastian!
 
-Soy un **Full stack developer** con mucha dedicación, ganas de ayudar a mis compañeros y contando con una mentalidad positiva para nuevos retos💪<br>
-<br>
-En los ultimos meses, la **resolución de problemas** y el **constante aprendizaje** que brinda la programación me apasionó. Tengo conomientos y experiencia en proyectos en: <br>
-HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | PostgreSQL | Sequelize | GitHub | Git | Vercel | Next Js | TypeScript <br>
+### **Full stack developer** 
+Focused on creating clean and high-quality code. I consider myself a highly proactive and collaborative person, capable of working effectively in a team to meet project goals and exceed client expectations.<br>
 <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="400" width="500"/>
 </p>
-
-## Contactame
-   E-mail: **sebastian.pitra10@gmail.com** <br>
-   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-pitra-97b5b7248/" display="flex" text-align="center">
-     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-      Sebastian Pitra
-   <a>
 
 ## Tech Stask
 <div style="display: inline_block" align="center"><br>
@@ -43,22 +34,28 @@ HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | Postgre
  <p align="center">
   <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
+
+## Contact me
+   By email: **sebastian.pitra10@gmail.com** <br>
+   By Linkedin: <a href="https://www.linkedin.com/in/sebasti%C3%A1n-pitra-97b5b7248/" display="flex" text-align="center">
+     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      Sebastian Pitra
+   <a>
   
 ## Projects
      
  ### [Non Fungible Town](https://github.com/seba-pitra/e-commerce-NFT).
 
-  Non Fungible Town es un E-commerce de NFT.  <br>
-  Creamos una plataforma de compra-venta y creación de NFT. <br>
-  Se ha integrado autenticacion de terceros con Firebase junto con Mercado Pago y Metamask como pasarelas de pagos.
+  NFT E-commerce  <br>
+  A platform that provides seamless opportunities for buying and selling NFTs using cryptocurrencies as well as cash payments. <br>
   
-  **_En esta plataforma los usuarios pueden:_**<br>
+  **_In it, users can:_**<br>
      <br>
-     1. Obtener facil ácceso a filtrados y ordenamientos para busquedas de NFT's.<br>
-     2. Verificaciones de cuenta para la creación de NFT.<br>
-     3. Listar sus NFT's favoritos.<br>
-     4. Compras rapidas mediante Metamask.<br>
-     5. Checkout de compra a traves de Mercado Pago.<br>
+     1. Get easy access to filters and orders for search NFTs <br>
+     2. Verify account for creating new NFTs.<br>
+     3. List favorite NFTs.<br>
+     4. Fast buys through Metamask.<br>
+     5. Checkout through Mercado Pago.<br>
      <br>
   <br>
      
@@ -71,16 +68,14 @@ HTML | CSS | JavaScript | NodeJS | Express | React | Redux | Bootstrap | Postgre
 
 ### [Dog breeds](https://github.com/seba-pitra/PI-DOGS).
 
-  Desarrollo de una SPA(Single Page App) usando React para el front y Redux como state management que permite la busqueda de razas de perros. <br>
-  Se implementó CSS puro para los estilos sin uso de librerias externas.<br> 
-  Las razas caninas son consumidas desde un back end construído con NodeJs y Express conectado a una base de datos hecha con sequelize y PostreSQL<br> 
+User-friendly Single-Page-App that integrated an external dog breed API. The app empowered users to effortlessly filter, sort, and even create new dog breeds, complemented by a seamless pagination feature. This enhanced user experience enabled seamless exploration of a diverse range of dog breeds.
   <br>
   
-  **_En esta plataforma los usuarios pueden:_**<br>
+  **_In it, users can:_**<br>
      <br>
-     1. Filtrar por temperamentos y creados.<br>
-     2. Ordenar por orden alfabetico y peso.<br>
-     3. Crear su propia raza canina.<br>
+     1. Get filtered and ordered dogs<br>
+     2. Search by name.<br>
+     3. Create his own dog breed.<br>
      <br>
   <br>
   
