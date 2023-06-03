@@ -1,23 +1,23 @@
 ## Hi, I'm Sebastian!👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="300" width="450"/>
-  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/318723fe-bbc9-41f0-8bc5-b4719a3a0e7f" alt="who-i-am" height="300" width="300"/>
+  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="350" width="500"/>
+  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/318723fe-bbc9-41f0-8bc5-b4719a3a0e7f" alt="who-i-am" height="350" width="350"/>
 </p>
 
 ## Tech Stask
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Seba-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Seba-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Seba-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Seba-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
 <!--  Front  -->
-  <img align="center" alt="Seba-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Seba-Redux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Seba-formik" height="50" width="60" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/d10ed638-4323-4d33-9d35-a151f1eb31c4" />
-  <img align="center" alt="Seba-storybook" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-  <img align="center" alt="Seba-npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Seba-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Seba-tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Seba-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Seba-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Seba-formik" height="40" width="50" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/d10ed638-4323-4d33-9d35-a151f1eb31c4" />
+  <img align="center" alt="Seba-storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  <img align="center" alt="Seba-npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Seba-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Seba-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   
  
 <!--  Back  -->
