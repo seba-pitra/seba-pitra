@@ -3,7 +3,16 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="350" width="450"/>
   <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/09bba899-19e1-426f-b69d-c289addb4daa" alt="who-i-am" height="350" width="300"/>
+</p>
+
+<div style="display: flex" align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seba-pitra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=github_dark" />
+</div>
+ 
   
+ <p align="center">
+  <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
 
 ## Tech Stask
@@ -61,15 +70,7 @@
 <div style="display: flex" align="flex"> <br>
  
 
-<div style="display: flex" align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seba-pitra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=github_dark" />
-</div>
- 
-  
- <p align="center">
-  <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
-</p>
+
 
 ## Contact me
    By email: **sebastian.pitra10@gmail.com** <br>
