@@ -1,8 +1,8 @@
 ## Hi, I'm Sebastian!👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="400" width="550"/>
-  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/318723fe-bbc9-41f0-8bc5-b4719a3a0e7f" alt="who-i-am" height="400" width="400"/>
+  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="300" width="450"/>
+  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/318723fe-bbc9-41f0-8bc5-b4719a3a0e7f" alt="who-i-am" height="300" width="300"/>
 </p>
 
 ## Tech Stask
