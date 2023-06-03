@@ -7,29 +7,94 @@
 </p>
 
 ## Tech Stask
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Seba-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Seba-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<div display="flex"> <br>
+  <div style="border: 1px solid black; padding: 10px; text-align: center" width="40">
+    <img align="center" alt="Seba-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    JavaScript
+  </div> <br />
+  <div style="border: 1px solid black; padding: 10px; text-align: center" width="40">
+    <img align="center" alt="Seba-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    TypeScript
+  </div> <br />
   
-<!--  Front  -->
-  <img align="center" alt="Seba-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Seba-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Seba-formik" height="40" width="50" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/d10ed638-4323-4d33-9d35-a151f1eb31c4" />
-  <img align="center" alt="Seba-storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-  <img align="center" alt="Seba-npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Seba-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Seba-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <!--  Front  -->
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    React
+  </div> <br />
   
- 
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    Redux
+  </div> <br />
+  
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-formik" height="40" width="50" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/d10ed638-4323-4d33-9d35-a151f1eb31c4" />
+    Formik
+  </div> <br />
+  
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+    Storybook
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    CSS
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+    <img align="center" alt="Seba-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    Taildwind CSS
+  </div> <br />
+  
+  
 <!--  Back  -->
-  <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Seba-Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Seba-mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Seba-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Seba-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Seba-postman" height="50" width="60" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
-  <img align="center" alt="Seba-firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img align="center" alt="Seba-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+     <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      Node JS
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+     <img align="center" alt="Seba-Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      Express
+  </div> <br />
+  
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+     <img align="center" alt="Seba-mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      MongoDB
+  </div> <br />
+  
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+     <img align="center" alt="Seba-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+      PostgreSQL
+  </div> <br />
+  
+  <div style="border: 1px solid black; padding: 10px; text-align: center">
+      <img align="center" alt="Seba-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+      Sequelize
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+      <img align="center" alt="Seba-postman" height="50" width="60" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
+      Postman
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+      <img align="center" alt="Seba-firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+      Firebase
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+      <img align="center" alt="Seba-npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      NPM 
+  </div> <br />
+  
+   <div style="border: 1px solid black; padding: 10px; text-align: center">
+      <img align="center" alt="Seba-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+      Git 
+  </div> <br />
+  
   
 </div>
 
