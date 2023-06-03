@@ -1,4 +1,5 @@
-## Hi, I'm Sebastian!👋
+  <h2 align="center">Hi, I'm Sebastian👋</h2>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="350" width="450"/>
@@ -10,7 +11,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=github_dark" />
 </div>
  
-  
  <p align="center">
   <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
