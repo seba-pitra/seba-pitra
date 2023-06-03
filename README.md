@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="350" width="450"/>
-  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/09bba899-19e1-426f-b69d-c289addb4daa" alt="who-i-am" height="350" width="300"/>
+  <img src="https://user-images.githubusercontent.com/98099690/184732411-ab82597f-bec0-4077-a354-9b7c1ca37ce8.GIF" alt="animated" height="350" width="440"/>
+  <img src="https://github.com/seba-pitra/seba-pitra/assets/98099690/09bba899-19e1-426f-b69d-c289addb4daa" alt="who-i-am" height="350" width="350"/>
 </p>
 
 <div style="display: flex" align="center">
