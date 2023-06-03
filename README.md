@@ -55,7 +55,7 @@
       PostgreSQL
     <img align="center" alt="Seba-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
       Sequelize
-    <img align="center" alt="Seba-postman" height="50" width="60" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
+    <img align="center" alt="Seba-postman" height="40" width="40" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
       Postman
     <img align="center" alt="Seba-firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   </div> <br />
