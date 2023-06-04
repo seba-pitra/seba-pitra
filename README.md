@@ -81,45 +81,44 @@
   
 ## Projects
      
- ### [Non Fungible Town](https://github.com/seba-pitra/e-commerce-NFT).
-
-  NFT E-commerce  <br>
-  A platform that provides seamless opportunities for buying and selling NFTs using cryptocurrencies as well as cash payments. <br>
+ ### [NFT E-Commerce](https://github.com/seba-pitra/e-commerce-NFT). <br>
+     
+  This project is an NFT e-commerce platform that provides a seamless experience for buying and selling NFTs using cryptocurrencies and cash payments. <br>
   
-  **_In it, users can:_**<br>
+  **_Key Features:_**<br>
      <br>
-     1. Get easy access to filters and orders for search NFTs <br>
-     2. Verify account for creating new NFTs.<br>
-     3. List favorite NFTs.<br>
-     4. Fast buys through Metamask.<br>
-     5. Checkout through Mercado Pago.<br>
+     1. **_Advanced Search_**: Users have access to filters and sorting options for easily finding the desired NFTs to purchase. <br>
+     2. **_Account Verification_**: Users can verify their accounts to create new NFTs and establish their identity on the platform.<br>
+     3. **_Favorites List_**: Users can save a personalized list of their favorite NFTs for quick access and tracking of the artworks they are interested in.<br>
+     4. **_Fast Buys with Metamask_**: Integration with Metamask allows users to make quick and secure purchases using their cryptocurrency wallet.<br>
+     5. **_Checkout_**: Integration with Mercado Pago allows make a payment with credit cards<br>
      <br>
   <br>
      
   <div display="flex">
-     <img height="220" width="240" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
-     <img height="220" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
-     <img height="220" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
+     <img height="220" width="260" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856149-c8602e34-5d02-46f8-9103-2047c46f0643.png">
+     <img height="220" width="280" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856358-87c5c3e1-451f-4683-9093-aeed5bcf4203.png">
+     <img height="220" width="280" alt="Captura de pantalla 2023-01-17 143635" src="https://user-images.githubusercontent.com/98099690/214856865-aa149022-823d-450d-a460-97d4623a068c.png">
   </div>
 
 
-### [Dog breeds](https://github.com/seba-pitra/PI-DOGS).
+### [Dog breeds Explorer](https://github.com/seba-pitra/PI-DOGS).
 
-User-friendly Single-Page-App that integrated an external dog breed API. The app empowered users to effortlessly filter, sort, and even create new dog breeds, complemented by a seamless pagination feature. This enhanced user experience enabled seamless exploration of a diverse range of dog breeds.
+This user-friendly single-page application integrates an external dog breed API. The app empowers users to effortlessly filter, sort, and even create new dog breeds, complemented by a seamless pagination feature. This enhanced user experience enables seamless exploration of a diverse range of dog breeds.
   <br>
   
   **_In it, users can:_**<br>
      <br>
-     1. Get filtered and ordered dogs<br>
-     2. Search by name.<br>
-     3. Create his own dog breed.<br>
+     1. **_Filtered and Ordered Dog Breeds_**: Users can easily filter and order the displayed dog breeds based on their preferences.<br>
+     2. **_Search by Name_**: Users can search for specific dog breeds by their name, making it convenient to find a particular breed of interest..<br>
+     3. **_Create Your Own Dog Breed_**: The app allows users to create their own dog breed, providing a unique and customizable experience.<br>
      <br>
   <br>
   
   <div display="flex">
-    <img height="300" width="260" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
-    <img height="300" width="280" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
-    <img height="300" width="280" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
+    <img height="220" width="260" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
+    <img height="220" width="280" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
+    <img height="220" width="280" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
   </div>
  
     
