@@ -11,7 +11,10 @@
 </div>
  
  <p align="center">
-  <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+
+ <img src="https://raw.githubusercontent.com/seba-pitra/seba-pitra/output/snake.svg" alt="Snake animation" />
+
+
 </p>
 
 ## Skills
