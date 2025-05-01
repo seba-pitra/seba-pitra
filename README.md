@@ -14,60 +14,25 @@
   <img src="https://github.com/seba-pitra/seba-pitra/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
 
-## Tech Stask
-<div>
- <div style="border: 1px solid black; padding: 10px; text-align: center" width="40">
-    <img align="center" alt="Seba-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-     TypeScript
-    <img align="center" alt="Seba-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    JavaScript <br />
-  </div> <br />
-  
-  
-  ## Front End
-  <div style="border: 1px solid black; padding: 10px; text-align: center; display:flex; gap: 20px;" width="40">
-    <img align="center" alt="Seba-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     React 
-    <img align="center" alt="Seba-formik" height="40" width="50" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/d10ed638-4323-4d33-9d35-a151f1eb31c4" />
-    Formik
-    <img align="center" alt="Seba-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    Redux
-    <img align="center" alt="Seba-storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-    Storybook
-    <img align="center" alt="Seba-storybook" height="70" width="80" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/084da68a-197d-40e9-ad88-de1d524436d5" />
-    Workbox
-    <img align="center" alt="Seba-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    CSS
-    <img align="center" alt="Seba-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    Taildwind CSS
-  </div> <br />
-  
-  ## Back End
-  <div style="border: 1px solid black; padding: 10px; text-align: center" width="40">
-    <img align="center" alt="Seba-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      Node JS
-    <img align="center" alt="Seba-Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-      Express
-    <img align="center" alt="Seba-mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      MongoDB
-   <img align="center" alt="Seba-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-      PostgreSQL
-    <img align="center" alt="Seba-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-      Sequelize
-    <img align="center" alt="Seba-postman" height="40" width="40" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
-      Postman
-    <img align="center" alt="Seba-firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  </div> <br />
-  
-  ## Others 
-  <div style="border: 1px solid black; padding: 10px; text-align: center" width="40">
-    <img align="center" alt="Seba-npm"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="center" alt="Seba-git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  </div> <br />
-</div>  
-  
-<div style="display: flex" align="flex"> <br>
- 
+## Skills
+<div style="display: flex; flex-direction: row; gap: 8px; border: 1px solid black; padding: 10px; flex-wrap: wrap;">
+    <img alt="Seba-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img alt="Seba-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img alt="Seba-vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+    <img alt="Seba-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img alt="Seba-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img alt="Seba-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Seba-nest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+    <img alt="Seba-Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img alt="Seba-jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
+    <img alt="Seba-docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img alt="Seba-mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img alt="Seba-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img alt="Seba-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img alt="Seba-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    <img alt="Seba-git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+    <img alt="Seba-postman" height="40" width="40" src="https://github.com/seba-pitra/seba-pitra/assets/98099690/c190fdb7-e14b-4c95-bd63-fe87b9382694" />
+</div>
 
 
 
@@ -79,7 +44,35 @@
    <a>
   
 ## Projects
-     
+ ### Medical Appointment Scheduling System
+ **Role**: Developer <br>
+ **Company**: Ingenes <br>
+ **Period**: 07/2023-11/2024 <br>
+ **Description**: Developed and maintained a medical appointment platform used in over 20 clinics across Mexico and the U.S. The system allowed patients to schedule consultations either independently or through a contact   
+ center.
+
+ Responsibilities:
+ - Designed REST APIs with NestJS for booking, doctor schedules and services.
+ - Improve existing apps
+ - Document new features
+
+[Visit the site](https://www.ingenes.com/)
+
+ ### Child Nutrition Donation Platform
+ **Role**: Developer <br>
+ **Company**: Conin SMT <br>
+ **Period**: 04/2023 – 08/2023 <br>
+ **Description**: Developed a web platform focused on fighting child malnutrition by improving the donation tracking and management process for a non-profit organization.
+
+ Responsibilities:
+ - Built a donation management system to streamline donor tracking and administrative follow-up.
+ - Refactored server-side logic to increase scalability and improve system performance.
+ - Enabled better data collection for efficient donation analytics and reporting.
+
+[Visit the site](https://www.conintucuman.org/)
+
+<img height="220" alt="Captura de pantalla 2023-01-17 143635" src="https://github.com/user-attachments/assets/53845bcd-82aa-47c1-b9f7-195d397d9ba9">
+
  ### [NFT E-Commerce](https://github.com/seba-pitra/e-commerce-NFT). <br>
      
   This project is an NFT e-commerce platform that provides a seamless experience for buying and selling NFTs using cryptocurrencies and cash payments. <br>
@@ -101,24 +94,6 @@
   </div>
 
 
-### [Dog breeds Explorer](https://github.com/seba-pitra/PI-DOGS).
 
-This user-friendly single-page application integrates an external dog breed API. The app empowers users to effortlessly filter, sort, and even create new dog breeds, complemented by a seamless pagination feature. This enhanced user experience enables seamless exploration of a diverse range of dog breeds.
-  <br>
-  
-  **_In it, users can:_**<br>
-     <br>
-     1. **_Filtered and Ordered Dog Breeds_**: Users can easily filter and order the displayed dog breeds based on their preferences.<br>
-     2. **_Search by Name_**: Users can search for specific dog breeds by their name, making it convenient to find a particular breed of interest..<br>
-     3. **_Create Your Own Dog Breed_**: The app allows users to create their own dog breed, providing a unique and customizable experience.<br>
-     <br>
-  <br>
-  
-  <div display="flex">
-    <img height="220" width="260" src="https://user-images.githubusercontent.com/98099690/214863642-7667d9e8-191f-4ca7-a8bb-20491a3d4eb0.png">
-    <img height="220" width="280" src="https://user-images.githubusercontent.com/98099690/214863671-8256df98-408c-44ba-896a-e86dc4ee573c.png">  
-    <img height="220" width="280" src="https://user-images.githubusercontent.com/98099690/214863658-983a7e0b-5d63-41d9-b272-e788dc74930b.png">
-  </div>
- 
     
   ###
